@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bem vindo(a) ao meu perfil do GitHub! 👋
+
+- 💻 Estou dando meus primeiros passos no mundo da programação e tecnologia, buscando aprender e desenvolver minhas habilidades.
+
+- 📚 Meu interesse inicial está em linguagens como Python e Java, e estou animadoa para explorar projetos simples e colaborar com a comunidade. Atualmente, estou focada em aprender os fundamentos do desenvolvimento web e estou aberta a oportunidades de aprendizado e projetos que me permitam expandir meu conhecimento.
+
+- 🌱 Estou animada para esta jornada de aprendizado e colaboração. 
 
 <!--
 **andressahfn/andressahfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
